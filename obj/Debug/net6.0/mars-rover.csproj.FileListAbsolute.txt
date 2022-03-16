@@ -1,0 +1,15 @@
+/home/haroldfinch/Documents/tesodev/mars-rover/bin/Debug/net6.0/mars-rover
+/home/haroldfinch/Documents/tesodev/mars-rover/bin/Debug/net6.0/mars-rover.deps.json
+/home/haroldfinch/Documents/tesodev/mars-rover/bin/Debug/net6.0/mars-rover.runtimeconfig.json
+/home/haroldfinch/Documents/tesodev/mars-rover/bin/Debug/net6.0/mars-rover.dll
+/home/haroldfinch/Documents/tesodev/mars-rover/bin/Debug/net6.0/ref/mars-rover.dll
+/home/haroldfinch/Documents/tesodev/mars-rover/bin/Debug/net6.0/mars-rover.pdb
+/home/haroldfinch/Documents/tesodev/mars-rover/obj/Debug/net6.0/mars-rover.csproj.AssemblyReference.cache
+/home/haroldfinch/Documents/tesodev/mars-rover/obj/Debug/net6.0/mars-rover.GeneratedMSBuildEditorConfig.editorconfig
+/home/haroldfinch/Documents/tesodev/mars-rover/obj/Debug/net6.0/mars-rover.AssemblyInfoInputs.cache
+/home/haroldfinch/Documents/tesodev/mars-rover/obj/Debug/net6.0/mars-rover.AssemblyInfo.cs
+/home/haroldfinch/Documents/tesodev/mars-rover/obj/Debug/net6.0/mars-rover.csproj.CoreCompileInputs.cache
+/home/haroldfinch/Documents/tesodev/mars-rover/obj/Debug/net6.0/mars-rover.dll
+/home/haroldfinch/Documents/tesodev/mars-rover/obj/Debug/net6.0/ref/mars-rover.dll
+/home/haroldfinch/Documents/tesodev/mars-rover/obj/Debug/net6.0/mars-rover.pdb
+/home/haroldfinch/Documents/tesodev/mars-rover/obj/Debug/net6.0/mars-rover.genruntimeconfig.cache
